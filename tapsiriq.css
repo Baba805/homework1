@@ -1,0 +1,65 @@
+body {
+    background-color: gray;
+}
+header,nav,footer {
+    background-color: white;
+    text-align: center;
+    padding: 21px;
+    width: 80%;
+    margin: 5mm 0mm 8mm 24mm;
+}
+aside {
+    float: right;
+    background-color: white;
+    text-align: center;
+    padding: 11px;
+    height: 53mm;
+    width: 500px;
+    margin: 0cm 4cm 0cm 0cm;
+    display: inline-block;
+}
+section {
+    background-color: white;
+ padding: 21px;
+    height: 48mm;
+    width: 500px;
+    margin: 0cm 0cm 0cm 3cm;
+    display: inline-block;
+    text-align: center;
+    clear: both;
+}
+footer {
+    clear: both;
+}
+article {
+    background-color: gray;
+    padding: 1px;
+    clear: both;
+    display: block;
+    height: 48mm;
+    text-align: center;
+
+}
+h1 {
+    background-color:white;
+    padding: 3px;
+    display: block;
+    text-align: center;
+    clear: both;
+    text-align: center;
+    height: 52px;
+    margin: 0cm 1cm;
+}
+p {
+    background-color: white;
+    padding: 1px;
+    display: block;
+    text-align: center;
+    clear: both;
+    text-align: center;
+    height: 52px;
+   
+}
+
+   
+
